@@ -10,6 +10,7 @@ Proyek ini adalah aplikasi mobile yang dikembangkan menggunakan framework **Reac
 * **Platform:** Android
 * **SDK Version:** API 35
 * **Language:** Java (Android Native side) / JavaScript (React Native)
+* **External API:** [JSONPlaceholder](https://jsonplaceholder.typicode.com/) (sumber data dummy)
 
 ## Current Status: Work in Progress (WIP)
 Saat ini proyek masih dalam tahap pengembangan dan belum sepenuhnya selesai. Beberapa kendala yang dihadapi meliputi:
