@@ -3,7 +3,13 @@
     "allow": [
       "Bash(dir:*)",
       "Bash(./gradlew clean:*)",
-      "Bash(gradlew.bat clean)"
+      "Bash(gradlew.bat clean)",
+      "Bash(npx expo start --clear -c)",
+      "Bash(taskkill:*)",
+      "Bash(git checkout:*)",
+      "Bash(npm install:*)",
+      "Bash(.gradlew.bat app:installDebug -PreactNativeDevServerPort=8081)",
+      "mcp__ide__getDiagnostics"
     ]
   }
 }
