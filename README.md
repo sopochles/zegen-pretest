@@ -12,11 +12,6 @@ Proyek ini adalah aplikasi mobile yang dikembangkan menggunakan framework **Reac
 * **Language:** Java (Android Native side) / JavaScript (React Native)
 * **External API:** [JSONPlaceholder](https://jsonplaceholder.typicode.com/) (sumber data dummy)
 
-## Current Status: Work in Progress (WIP)
-Saat ini proyek masih dalam tahap pengembangan dan belum sepenuhnya selesai. Beberapa kendala yang dihadapi meliputi:
-1. **Technical Errors:** Terdapat beberapa error teknis yang muncul selama proses penggabungan (integrasi) antara React Native dan Android Studio dan belum semua sempat diperbaiki
-2. **Time Constraints:** Waktu pengerjaan yang tersedia terbatas dikarenakan tenggat waktu ada di hari Sabtu, 17 Januari 2026 bertabrakan dengan jadwal UAS milik saya pada hari yang sama
-
 ## How to Run (Simulated)
 1. Buka project di Visual Studio Code
 2. Jalankan Metro Bundler
